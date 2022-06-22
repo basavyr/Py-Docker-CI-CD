@@ -7,7 +7,7 @@ name = "pypi"
 watchdog = "*"
 autopep8 ="*"
 psutil = "*"
-numpy = "==1.18.5"
+numpy = "==1.22.0"
 matplotlib = "==3.3.3"
 pip = "*"
 
